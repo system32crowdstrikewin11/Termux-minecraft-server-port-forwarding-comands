@@ -1,5 +1,4 @@
-# Termux-minecraft-server-port-forwarding-
-comands
+# Termux-minecraft-server-port-forwarding-comands
 
 you can use this command if you are running a Minecraft server on termux if you want to connect it to the public the comannd for the port forwarding is
 
