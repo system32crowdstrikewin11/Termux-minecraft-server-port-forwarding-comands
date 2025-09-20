@@ -3,14 +3,23 @@
 you can use this command if you are running a Minecraft server on termux if you want to connect it to the public the comannd for the port forwarding is
 
 ```pkg install rust```
+
 ```pkg install git```
+
 ```git clone https://github.com/playit-cloud/playit-agent.git```
+
 ```cd playit-agent``` 
+
 # Build the binary 
+
 ```cargo build --release```  
+
 # Run Playit 
+
 ```./target/release/playit cargo fix --bin "playit-cli"```
+
 ```cargo build --release```
+
 ```./target/release/playit-cli```
 
 then it will give you a link and you can register a user or just log in as a anynomus user
