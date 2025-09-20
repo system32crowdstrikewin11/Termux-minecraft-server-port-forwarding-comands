@@ -9,7 +9,8 @@ cd playit-agent
 # Build the binary 
 cargo build --release  
 # Run Playit 
-./target/release/playit cargo fix --bin "playit-cli"  cargo build --release ./target/release/playit-cli
+./target/release/playit cargo fix --bin "playit-cli"  cargo build --release
+./target/release/playit-cli
 ```
 
 then it will give you a link and you can register a user or just log in as a anynomus user
